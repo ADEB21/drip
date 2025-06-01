@@ -1,5 +1,5 @@
 # PRÉSENTATION DU PROJET
-> Par : Charles HOHWEILLER, Anton Martin, Arthur DEBRUILLE
+> Par : Charles HOHWEILLER, Anton MARTIN, Arthur DEBRUILLE
 
 ### 💡 L’idée
 
