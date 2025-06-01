@@ -55,4 +55,4 @@ Drip repose sur **6 modules clés** :
 5. **Feed communautaire** : looks d’autres utilisateurs, défis de style
 6. **Alertes intelligentes** : habits non portés, articles similaires déjà possédés
 
-Pour en savoir plus : 🔗 [Voir le site en ligne](https://drip-chi.vercel.app/)
+Pour en savoir plus : 🔗 [Voir le business plan en ligne](https://drip-chi.vercel.app/)
