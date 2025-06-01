@@ -1,12 +1,5 @@
-# DRIP
-
+# PRÉSENTATION DU PROJET
 > Par : Charles HOHWEILLER, Anton Martin, Arthur DEBRUILLE
-
----
-
-# 2.PRÉSENTATION DU PROJET
-
----
 
 ### 💡 L’idée
 
@@ -61,6 +54,5 @@ Drip repose sur **6 modules clés** :
 4. **Tableau d’impact environnemental** : CO₂, fréquence de port, rotation vestimentaire
 5. **Feed communautaire** : looks d’autres utilisateurs, défis de style
 6. **Alertes intelligentes** : habits non portés, articles similaires déjà possédés
-
 
 Pour en savoir plus : 🔗 [Voir le site en ligne](https://drip-chi.vercel.app/)
